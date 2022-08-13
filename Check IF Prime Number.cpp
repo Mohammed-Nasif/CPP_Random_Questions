@@ -22,3 +22,5 @@ int main() {
     }
     return 0;
 }
+
+// For More Clarifaction => https://www.programiz.com/cpp-programming/examples/prime-number
